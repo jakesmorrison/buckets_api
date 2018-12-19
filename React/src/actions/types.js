@@ -1,0 +1,6 @@
+export const FETCH_TEAM_DATA = "FETCH_TEAM_DATA";
+export const FETCH_STANDINGS = "FETCH_STANDINGS";
+export const FETCH_DRAFT_RESULTS = "FETCH_DRAFT_RESULTS";
+export const FINAL_DATA = "FINAL_DATA";
+export const PANEL_DATA = "PANEL_DATA";
+export const NAME_STATE = "NAME_STATE";
